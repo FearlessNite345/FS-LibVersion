@@ -1,3 +1,6 @@
+# Changelog v1.5.2
+- Added new NUI text UI and 3D text systems for upcoming script updates, reducing reliance on GTA native draw text for better performance.
+
 # Changelog v1.5.1  
 - Improved the update checker to ensure more accurate version detection and update handling.
 
